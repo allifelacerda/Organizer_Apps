@@ -11,7 +11,6 @@ ORGANIZAR [F12]
 Abra 1 tela e salve seu layout preferido.
 
 Abra 2 telas e salve seu layout preferido.
-.
 
 .
 
